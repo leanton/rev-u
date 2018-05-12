@@ -6,3 +6,4 @@ out/
 *.class
 *.jar
 !gradle-wrapper.jar
+*.iml
